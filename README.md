@@ -10,6 +10,11 @@ Projects inside:
 - Portfolio Template
 - (Add more as you build)
 
+Days:
+
+Day-1 <br>
+-Navbar of Amazon <br> 
+
 Each in its own folder. Clean code, mobile-first.
 
 Part of daily discipline - MERN Stack + AI 2026 goal.
