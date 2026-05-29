@@ -10,7 +10,10 @@ Projects inside:
 - Portfolio Template
 - (Add more as you build)
 
-Days:
+Info:-
+Basic-tags  <br> 
+-In this file html basics tags list 
+
 
 
 Jai Shri Ram 🙏
